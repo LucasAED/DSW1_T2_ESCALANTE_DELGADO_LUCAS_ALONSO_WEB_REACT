@@ -39,5 +39,7 @@ npm install
 
 #### 3. Ejecutar el Servidor de Desarrollo
 Una vez instaladas las dependencias, inicie el proyecto con:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 npm run dev
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 La aplicación se abrirá en: http://localhost:5173
